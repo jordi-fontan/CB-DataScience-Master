@@ -1,0 +1,15 @@
+Problem 1:
+Suppose we are interested in the buying habits of shoppers at a particular grocery store with regards to whether they purchase apples, milk, and/or bread. Now suppose 30% of all shoppers at this particular grocery store buy apples, 45% buy milk, and 40% buy a loaf of bread. Let  𝐴  be the event that a randomly selected shopper buys apples,  𝐵  be the event that the same randomly selected shopper buys milk, and  𝐶  the event that they buy bread. Suppose we also know (from data collected) the following information:
+
+The probability that the shopper buys apples and milk is 0.20.
+The probability that the shopper buys milk and bread is 0.25.
+The probability that the shopper buys apples and bread is 0.12.
+The probability that the shopper buys all three items is 0.07.
+Use this information to answer the following questions.
+
+```
+S = c(000,100,110,101,111,010,011,001)
+A = c(100,110,101,111)
+B = c(010,110,011,111)
+C = c(001,010,101,111)
+```
